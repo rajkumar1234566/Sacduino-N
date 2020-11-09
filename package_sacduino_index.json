@@ -11,7 +11,7 @@
         {
           "name": "Sacduino Boards",
           "architecture": "avr",
-          "version": "1.6.7",
+          "version": "1",
           "category": "Contributed",
 	  "url": "https://github.com/rajkumar1234566/Sacduino-N/blob/main/Sacduino.zip?raw=true",
           "archiveFileName": "Sacduino.zip",
