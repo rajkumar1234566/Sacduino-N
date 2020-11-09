@@ -16,7 +16,7 @@
 	  "url": "https://github.com/rajkumar1234566/Sacduino-N/blob/main/Sacduino.zip?raw=true",
           "archiveFileName": "Sacduino.zip",
           "checksum":"SHA-256:D723CF83E8D0D376AA512AC441C45E3C47332C3FCC0295B218AAFB02F3D05F4F",
-          "size": "4121072 ",
+          "size": "4121072",
           "boards": [
             {
               "name": "Sacduino  Boards."
